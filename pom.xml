@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.142.97.168:8081/repository/Tesla-frontend-releases/</url>
+	      <url>http://3.142.97.168:8081/repository/Tesla-fr-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.142.97.168:8081/repository/tesla-frontend-snapshot/</url>
+	      <url>http://3.142.97.168:8081/repository/Tesla-fr-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
